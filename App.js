@@ -9,7 +9,7 @@ import {
   progressChartData,
   stackedBarGraphData,
   stackedBarGraphDataSmaller,
-} from "./data";
+} from "./chartData";
 import {
   BarChart,
   ContributionGraph,

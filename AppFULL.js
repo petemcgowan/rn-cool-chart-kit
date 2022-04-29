@@ -8,7 +8,7 @@ import {
   pieChartData,
   progressChartData,
   stackedBarGraphData,
-} from "./data";
+} from "./chartData";
 import {
   BarChart,
   ContributionGraph,
